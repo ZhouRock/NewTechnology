@@ -1,2 +1,3 @@
 # NewTechnology
-这里是新技术的汇聚地
+- SDN软件定义网络
+- NFV网络功能虚拟化
